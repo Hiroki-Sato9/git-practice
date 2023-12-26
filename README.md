@@ -1,4 +1,4 @@
 # git-practice
 技育
 
-developブランチで変更されたREADMEファイル
+変更をしたREADMEファイル
